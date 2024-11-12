@@ -1,0 +1,15 @@
+C:\Users\Engin\Desktop\.Net-Core-Project\Tutorial_1\bin\Debug\net8.0\Tutorial_1.exe
+C:\Users\Engin\Desktop\.Net-Core-Project\Tutorial_1\bin\Debug\net8.0\Tutorial_1.deps.json
+C:\Users\Engin\Desktop\.Net-Core-Project\Tutorial_1\bin\Debug\net8.0\Tutorial_1.runtimeconfig.json
+C:\Users\Engin\Desktop\.Net-Core-Project\Tutorial_1\bin\Debug\net8.0\Tutorial_1.dll
+C:\Users\Engin\Desktop\.Net-Core-Project\Tutorial_1\bin\Debug\net8.0\Tutorial_1.pdb
+C:\Users\Engin\Desktop\.Net-Core-Project\Tutorial_1\obj\Debug\net8.0\Tutorial_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Engin\Desktop\.Net-Core-Project\Tutorial_1\obj\Debug\net8.0\Tutorial_1.AssemblyInfoInputs.cache
+C:\Users\Engin\Desktop\.Net-Core-Project\Tutorial_1\obj\Debug\net8.0\Tutorial_1.AssemblyInfo.cs
+C:\Users\Engin\Desktop\.Net-Core-Project\Tutorial_1\obj\Debug\net8.0\Tutorial_1.csproj.CoreCompileInputs.cache
+C:\Users\Engin\Desktop\.Net-Core-Project\Tutorial_1\obj\Debug\net8.0\Tutorial_1.sourcelink.json
+C:\Users\Engin\Desktop\.Net-Core-Project\Tutorial_1\obj\Debug\net8.0\Tutorial_1.dll
+C:\Users\Engin\Desktop\.Net-Core-Project\Tutorial_1\obj\Debug\net8.0\refint\Tutorial_1.dll
+C:\Users\Engin\Desktop\.Net-Core-Project\Tutorial_1\obj\Debug\net8.0\Tutorial_1.pdb
+C:\Users\Engin\Desktop\.Net-Core-Project\Tutorial_1\obj\Debug\net8.0\Tutorial_1.genruntimeconfig.cache
+C:\Users\Engin\Desktop\.Net-Core-Project\Tutorial_1\obj\Debug\net8.0\ref\Tutorial_1.dll
