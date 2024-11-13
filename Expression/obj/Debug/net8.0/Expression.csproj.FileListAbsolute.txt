@@ -1,0 +1,15 @@
+C:\Users\Engin\Desktop\.Net-Core-Project\Expression\obj\Debug\net8.0\Expression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Engin\Desktop\.Net-Core-Project\Expression\obj\Debug\net8.0\Expression.AssemblyInfoInputs.cache
+C:\Users\Engin\Desktop\.Net-Core-Project\Expression\obj\Debug\net8.0\Expression.AssemblyInfo.cs
+C:\Users\Engin\Desktop\.Net-Core-Project\Expression\obj\Debug\net8.0\Expression.csproj.CoreCompileInputs.cache
+C:\Users\Engin\Desktop\.Net-Core-Project\Expression\obj\Debug\net8.0\Expression.sourcelink.json
+C:\Users\Engin\Desktop\.Net-Core-Project\Expression\bin\Debug\net8.0\Expression.exe
+C:\Users\Engin\Desktop\.Net-Core-Project\Expression\bin\Debug\net8.0\Expression.deps.json
+C:\Users\Engin\Desktop\.Net-Core-Project\Expression\bin\Debug\net8.0\Expression.runtimeconfig.json
+C:\Users\Engin\Desktop\.Net-Core-Project\Expression\bin\Debug\net8.0\Expression.dll
+C:\Users\Engin\Desktop\.Net-Core-Project\Expression\bin\Debug\net8.0\Expression.pdb
+C:\Users\Engin\Desktop\.Net-Core-Project\Expression\obj\Debug\net8.0\Expression.dll
+C:\Users\Engin\Desktop\.Net-Core-Project\Expression\obj\Debug\net8.0\refint\Expression.dll
+C:\Users\Engin\Desktop\.Net-Core-Project\Expression\obj\Debug\net8.0\Expression.pdb
+C:\Users\Engin\Desktop\.Net-Core-Project\Expression\obj\Debug\net8.0\Expression.genruntimeconfig.cache
+C:\Users\Engin\Desktop\.Net-Core-Project\Expression\obj\Debug\net8.0\ref\Expression.dll
