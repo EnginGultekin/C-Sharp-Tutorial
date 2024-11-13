@@ -1,0 +1,15 @@
+C:\Users\Engin\Desktop\.Net-Core-Project\C-Sharp-Tutorial\If-Else-IF\bin\Debug\net8.0\If-Else-IF.exe
+C:\Users\Engin\Desktop\.Net-Core-Project\C-Sharp-Tutorial\If-Else-IF\bin\Debug\net8.0\If-Else-IF.deps.json
+C:\Users\Engin\Desktop\.Net-Core-Project\C-Sharp-Tutorial\If-Else-IF\bin\Debug\net8.0\If-Else-IF.runtimeconfig.json
+C:\Users\Engin\Desktop\.Net-Core-Project\C-Sharp-Tutorial\If-Else-IF\bin\Debug\net8.0\If-Else-IF.dll
+C:\Users\Engin\Desktop\.Net-Core-Project\C-Sharp-Tutorial\If-Else-IF\bin\Debug\net8.0\If-Else-IF.pdb
+C:\Users\Engin\Desktop\.Net-Core-Project\C-Sharp-Tutorial\If-Else-IF\obj\Debug\net8.0\If-Else-IF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Engin\Desktop\.Net-Core-Project\C-Sharp-Tutorial\If-Else-IF\obj\Debug\net8.0\If-Else-IF.AssemblyInfoInputs.cache
+C:\Users\Engin\Desktop\.Net-Core-Project\C-Sharp-Tutorial\If-Else-IF\obj\Debug\net8.0\If-Else-IF.AssemblyInfo.cs
+C:\Users\Engin\Desktop\.Net-Core-Project\C-Sharp-Tutorial\If-Else-IF\obj\Debug\net8.0\If-Else-IF.csproj.CoreCompileInputs.cache
+C:\Users\Engin\Desktop\.Net-Core-Project\C-Sharp-Tutorial\If-Else-IF\obj\Debug\net8.0\If-Else-IF.sourcelink.json
+C:\Users\Engin\Desktop\.Net-Core-Project\C-Sharp-Tutorial\If-Else-IF\obj\Debug\net8.0\If-Else-IF.dll
+C:\Users\Engin\Desktop\.Net-Core-Project\C-Sharp-Tutorial\If-Else-IF\obj\Debug\net8.0\refint\If-Else-IF.dll
+C:\Users\Engin\Desktop\.Net-Core-Project\C-Sharp-Tutorial\If-Else-IF\obj\Debug\net8.0\If-Else-IF.pdb
+C:\Users\Engin\Desktop\.Net-Core-Project\C-Sharp-Tutorial\If-Else-IF\obj\Debug\net8.0\If-Else-IF.genruntimeconfig.cache
+C:\Users\Engin\Desktop\.Net-Core-Project\C-Sharp-Tutorial\If-Else-IF\obj\Debug\net8.0\ref\If-Else-IF.dll
