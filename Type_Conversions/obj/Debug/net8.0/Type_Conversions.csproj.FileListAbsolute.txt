@@ -1,0 +1,15 @@
+C:\Users\Engin\Desktop\.Net-Core-Project\C-Sharp-Tutorial\Type_Conversions\bin\Debug\net8.0\Type_Conversions.exe
+C:\Users\Engin\Desktop\.Net-Core-Project\C-Sharp-Tutorial\Type_Conversions\bin\Debug\net8.0\Type_Conversions.deps.json
+C:\Users\Engin\Desktop\.Net-Core-Project\C-Sharp-Tutorial\Type_Conversions\bin\Debug\net8.0\Type_Conversions.runtimeconfig.json
+C:\Users\Engin\Desktop\.Net-Core-Project\C-Sharp-Tutorial\Type_Conversions\bin\Debug\net8.0\Type_Conversions.dll
+C:\Users\Engin\Desktop\.Net-Core-Project\C-Sharp-Tutorial\Type_Conversions\bin\Debug\net8.0\Type_Conversions.pdb
+C:\Users\Engin\Desktop\.Net-Core-Project\C-Sharp-Tutorial\Type_Conversions\obj\Debug\net8.0\Type_Conversions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Engin\Desktop\.Net-Core-Project\C-Sharp-Tutorial\Type_Conversions\obj\Debug\net8.0\Type_Conversions.AssemblyInfoInputs.cache
+C:\Users\Engin\Desktop\.Net-Core-Project\C-Sharp-Tutorial\Type_Conversions\obj\Debug\net8.0\Type_Conversions.AssemblyInfo.cs
+C:\Users\Engin\Desktop\.Net-Core-Project\C-Sharp-Tutorial\Type_Conversions\obj\Debug\net8.0\Type_Conversions.csproj.CoreCompileInputs.cache
+C:\Users\Engin\Desktop\.Net-Core-Project\C-Sharp-Tutorial\Type_Conversions\obj\Debug\net8.0\Type_Conversions.sourcelink.json
+C:\Users\Engin\Desktop\.Net-Core-Project\C-Sharp-Tutorial\Type_Conversions\obj\Debug\net8.0\Type_Conversions.dll
+C:\Users\Engin\Desktop\.Net-Core-Project\C-Sharp-Tutorial\Type_Conversions\obj\Debug\net8.0\refint\Type_Conversions.dll
+C:\Users\Engin\Desktop\.Net-Core-Project\C-Sharp-Tutorial\Type_Conversions\obj\Debug\net8.0\Type_Conversions.pdb
+C:\Users\Engin\Desktop\.Net-Core-Project\C-Sharp-Tutorial\Type_Conversions\obj\Debug\net8.0\Type_Conversions.genruntimeconfig.cache
+C:\Users\Engin\Desktop\.Net-Core-Project\C-Sharp-Tutorial\Type_Conversions\obj\Debug\net8.0\ref\Type_Conversions.dll
