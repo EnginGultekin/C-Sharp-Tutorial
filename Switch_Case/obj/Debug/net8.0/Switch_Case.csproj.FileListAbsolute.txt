@@ -1,0 +1,15 @@
+C:\Users\Engin\Desktop\.Net-Core-Project\C-Sharp-Tutorial\Switch_Case\bin\Debug\net8.0\Switch_Case.exe
+C:\Users\Engin\Desktop\.Net-Core-Project\C-Sharp-Tutorial\Switch_Case\bin\Debug\net8.0\Switch_Case.deps.json
+C:\Users\Engin\Desktop\.Net-Core-Project\C-Sharp-Tutorial\Switch_Case\bin\Debug\net8.0\Switch_Case.runtimeconfig.json
+C:\Users\Engin\Desktop\.Net-Core-Project\C-Sharp-Tutorial\Switch_Case\bin\Debug\net8.0\Switch_Case.dll
+C:\Users\Engin\Desktop\.Net-Core-Project\C-Sharp-Tutorial\Switch_Case\bin\Debug\net8.0\Switch_Case.pdb
+C:\Users\Engin\Desktop\.Net-Core-Project\C-Sharp-Tutorial\Switch_Case\obj\Debug\net8.0\Switch_Case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Engin\Desktop\.Net-Core-Project\C-Sharp-Tutorial\Switch_Case\obj\Debug\net8.0\Switch_Case.AssemblyInfoInputs.cache
+C:\Users\Engin\Desktop\.Net-Core-Project\C-Sharp-Tutorial\Switch_Case\obj\Debug\net8.0\Switch_Case.AssemblyInfo.cs
+C:\Users\Engin\Desktop\.Net-Core-Project\C-Sharp-Tutorial\Switch_Case\obj\Debug\net8.0\Switch_Case.csproj.CoreCompileInputs.cache
+C:\Users\Engin\Desktop\.Net-Core-Project\C-Sharp-Tutorial\Switch_Case\obj\Debug\net8.0\Switch_Case.sourcelink.json
+C:\Users\Engin\Desktop\.Net-Core-Project\C-Sharp-Tutorial\Switch_Case\obj\Debug\net8.0\Switch_Case.dll
+C:\Users\Engin\Desktop\.Net-Core-Project\C-Sharp-Tutorial\Switch_Case\obj\Debug\net8.0\refint\Switch_Case.dll
+C:\Users\Engin\Desktop\.Net-Core-Project\C-Sharp-Tutorial\Switch_Case\obj\Debug\net8.0\Switch_Case.pdb
+C:\Users\Engin\Desktop\.Net-Core-Project\C-Sharp-Tutorial\Switch_Case\obj\Debug\net8.0\Switch_Case.genruntimeconfig.cache
+C:\Users\Engin\Desktop\.Net-Core-Project\C-Sharp-Tutorial\Switch_Case\obj\Debug\net8.0\ref\Switch_Case.dll
